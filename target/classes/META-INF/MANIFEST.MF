@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pduarte
+Build-Jdk: 10.0.2
+Implementation-Title: Login
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.duarte
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Login
+Created-By: Maven Integration for Eclipse
+
